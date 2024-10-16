@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar_add_place" type="id" />
+    <item name="sv_main" type="id" />
+    <item name="til_title" type="id" />
+    <item name="et_title" type="id" />
+    <item name="btn_save" type="id" />
+</resources>
